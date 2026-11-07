@@ -17,6 +17,11 @@ Proyecto base de Spring Boot con arquitectura REST desarrollado para atender pet
 ### Controlador 2: `StatusController` (`/api/status`)
 - `GET /api/status/servidor`: Proporciona la telemetría, estampa de tiempo y estado del servidor.
 
+## Pruebas de manera local 
+![proyecto local](img/proyecto.png)
+
+![endpoint materias local](img/materias.png)
+
 ## Enlaces de Despliegue en VPS
 - **Proyecto / Info:** `http://179.197.84.73:8081/api/info/proyecto`
 - **Materias:** `http://179.197.84.73:8081/api/info/materias`
